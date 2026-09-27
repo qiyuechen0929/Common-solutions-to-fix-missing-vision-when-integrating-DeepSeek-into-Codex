@@ -1,5 +1,10 @@
 # Codex 视觉桥：图片识别方法全攻略
 
+![banner](banner.svg)
+
+![For](https://img.shields.io/badge/For-Codex%20/%20Claude%20Code-black) ![Free](https://img.shields.io/badge/Free-免费额度方案-green) ![Routes](https://img.shields.io/badge/Routes-多通道降级链-0969da)
+
+
 给纯文本推理模型（Codex、Claude Code、DeepSeek 等）补上"眼睛"的多通道视觉增强方案。
 
 核心思路只有一句：**把图片变成文字/JSON，再让主模型推理。**
